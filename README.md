@@ -25,3 +25,19 @@ Key Features of Oracle Analytics Cloud are:
 ## Lab 0 – Create an Oracle Analytics Cloud (OAC) instance
 
 **[Click here to run Lab 0](./Lab0.md)**
+
+## Lab 1 – Create a Data Set by adding a Spreadsheet from your Computer
+
+**[Click here to run Lab 1](./Lab1.md)**
+
+## Lab 2 - Create a simple data visualization project with Oracle Analytics Cloud with multiple Canvases
+
+**[Click here to run Lab 2](./Lab2.md)**
+
+## Lab 3 – Machine Learning
+
+**[Click here to run Lab 3](./Lab3.md)**
+
+## Lab 4 - How to export Dashboard 
+
+**[Click here to run Lab 4](./Lab4.md)**
