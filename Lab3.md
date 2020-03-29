@@ -118,6 +118,7 @@ Under the table which contains our predicted values we can create a new graph by
 Always under the table which contains our predicted values, we can create another graph by holding down CTRL and multi-selecting _**PredictedValue**_ and _**month**_ attributes. Right-click and select _**Pick Visualization**_. From the chart icon at the top left change the chart type to a bar chart. 
 
 <div style="text-align:center"><img src="./images/lab3_image20.png" /></div>
+
 - _Graph 3 – Produced energy for wind hourly from training data_
 
 Under the table wdavg, create a new graph by holding down CTRL and multi-selecting _**Powergen_kw**_ and _**hour**_ attributes. Right-click and select _**Pick Visualization**_. From the chart icon at the top left change the chart type to a line chart. 
