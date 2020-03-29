@@ -32,7 +32,8 @@ Questions answered in this section:
 We will create the following canvas using different charts to answer these questions.
 
 <div style="text-align:center"><img src="./images/lab2_image4.png" /></div>
-- _Graph 1 – Annual Energy Consumption by year_
+
+_Graph 1 – Annual Energy Consumption by year_
 
 On this blank canvas, it is possible to create visualizations by simply drag and drop. Under the table _**CONSUPTION_BY_STATE_YEAR**_ we can create our first visualization by holding down CTRL and multi-selecting _**YEAR**_ and _**ENERGY_CONS_YEARLY**_ attributes. Drag those 2 fields from the left navigation panel to the center blank canvas. A suggested plot is created automatically. From the chart icon at the top left change the chart type to a combo chart. 
 
@@ -41,6 +42,7 @@ On this blank canvas, it is possible to create visualizations by simply drag and
 Furthermore, it is possible to add analytics tools as a trend, reference and forecast line for example. In our canvas, we will use a trend line. After selecting the analytics button by directly drag the trend line over the interested chart it will automatically generate the linear trend line.
 
 <div style="text-align:center"><img src="./images/lab2_image6.png" /></div>
+
 - _Graph 2 – Total Energy consumption by Sector_
 
 Under the table ENERGY_CONSUMPTION_BY_SECTOR, holding down CTRL and multi-selecting 
@@ -56,6 +58,7 @@ TOTAL_ENERGY_CONSUMED_BY_THE_TRANPORTATION_SECTOR.
 and right-click on those 4 fields. Select as a chart type a donut chart. The result should be a canvas which contains both the graphs in the same window.
 
 <div style="text-align:center"><img src="./images/lab2_image7.png" /></div>
+
 - _Graph 3 – Energy Consumption in the USA_
 
 Under the table CONSUPTION_BY_STATE_YEAR, holding down CTRL and multi-selecting STATE and ENERGY_CONS_STATEWISE. Right-Click on these 2 fields and select _**Pick Visualization**_. From the chart icon at the top left change the chart type to a map chart. Here is showed the yearly total consumption for each state in the USA.
