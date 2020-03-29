@@ -4,7 +4,7 @@ You can export one or more of your project's visualizations, canvases, or storie
 
 Select the visualization you want to export and click Menu or right-click and click _Share_, then select As PDF or As PPT. Alte_rnatively, click _Share Project_ on the project toolbar and _select File_. 
 
-![alt text](./images/lab4_image1.png)
+<div style="text-align:center"><img src="./images/lab4_image1.png" /></div>
 
 Choose the desired export format and all the other options.
 
