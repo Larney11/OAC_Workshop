@@ -7,9 +7,8 @@ In this lab, we are going to predict the production of energy from wind through 
 Download the CSV files which contain all the required resources for this section at the following
 links: 
 
-1. [WDAVG (data for training the model)](./res/wdavg.xlsx)
-2. [ENERGY_TEST (data for testing the model)](./res/energy_test.xlsx)
-
+1. [WDAVG (data for training the model)](https://objectstorage.uk-london-1.oraclecloud.com/p/bV2FPW80N08oeEN0TMALCNcp_2i30_8PPe_sC3Nts2E/n/odca/b/OAC_Workshop/o/wdavg.xlsx)
+2. [ENERGY_TEST (data for testing the model)](https://objectstorage.uk-london-1.oraclecloud.com/p/VAtIaDP5uM7j090s5qxcb2EGxbZSJBcAYFs7JBTa8DY/n/odca/b/OAC_Workshop/o/energy_test.xlsx)
 
 ## Step 1: Create and Train a Model using a Data Flow
 

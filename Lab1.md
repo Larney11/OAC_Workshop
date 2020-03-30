@@ -6,10 +6,10 @@ _Note:_ You can't import an Excel spreadsheet that contains pivoted data.
 Download the CSV files which contain all the required resources for this section at the following
 Links:
 
-1. [CONSUPTION_BY_STATE_YEAR](./res/Consumption_by_state_year.csv)
-2. [ENERGY_CONSUMPTION_BY_SECTOR](./res/Energy_Consumption_by_Sector.csv)
-3. [ENERGY_EXPENDITURES_HOUSINGUNIT](./res/Energy_expenditures_HousingUnit.xlsx)
-4. [ENERGY_EXPENDITURE](./res/Energy_expenditures.xlsx)
+1. [CONSUPTION_BY_STATE_YEAR](https://objectstorage.uk-london-1.oraclecloud.com/p/SD4mcFaQHDAp1rncfmDZyy0BtTZ6qU22jzyi2TcOGgo/n/odca/b/OAC_Workshop/o/Consumption_by_state_year.csv)
+2. [ENERGY_CONSUMPTION_BY_SECTOR](https://objectstorage.uk-london-1.oraclecloud.com/p/i-edAv1mlbLMlq_bcqZihRfNQSVZd8IEv6eUx_rrIvU/n/odca/b/OAC_Workshop/o/Energy_Consumption_by_Sector.csv)
+3. [ENERGY_EXPENDITURES_HOUSINGUNIT](https://objectstorage.uk-london-1.oraclecloud.com/p/edpQPXtfQFIrSwToWRoeWuLIFp-EgAdxas-AoWJzJwE/n/odca/b/OAC_Workshop/o/Energy_expenditures_HousingUnit.xlsx)
+4. [ENERGY_EXPENDITURE](https://objectstorage.uk-london-1.oraclecloud.com/p/76XcDppvDn3tSfZfdir8_7H9-qO4rKGBGLMyf0JGCvg/n/odca/b/OAC_Workshop/o/Energy_expenditures.xlsx)
 
 And now proceed uploading the following CSV files as a new Data Set on OAC.
 
