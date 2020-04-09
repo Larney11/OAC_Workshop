@@ -1,28 +1,49 @@
-## Lab 1 – Create a Data Set by adding a Spreadsheet from your Computer
+## Lab 1 – Create a Data Sets by adding a Spreadsheets from your Computer
 You can create a data set from an Excel spreadsheet (XLSX or XLS), CSV file, or TXT file located on your computer. 
 
 _Note:_ You can't import an Excel spreadsheet that contains pivoted data. 
 
-Download the CSV files which contain all the required resources for this section at the following
+Download the following CSV files which contain all the required resources for this section at the following
 Links:
 
-1. [CONSUPTION_BY_STATE_YEAR](https://objectstorage.uk-london-1.oraclecloud.com/p/SD4mcFaQHDAp1rncfmDZyy0BtTZ6qU22jzyi2TcOGgo/n/odca/b/OAC_Workshop/o/Consumption_by_state_year.csv)
-2. [ENERGY_CONSUMPTION_BY_SECTOR](https://objectstorage.uk-london-1.oraclecloud.com/p/i-edAv1mlbLMlq_bcqZihRfNQSVZd8IEv6eUx_rrIvU/n/odca/b/OAC_Workshop/o/Energy_Consumption_by_Sector.csv)
-3. [ENERGY_EXPENDITURES_HOUSINGUNIT](https://objectstorage.uk-london-1.oraclecloud.com/p/edpQPXtfQFIrSwToWRoeWuLIFp-EgAdxas-AoWJzJwE/n/odca/b/OAC_Workshop/o/Energy_expenditures_HousingUnit.xlsx)
-4. [ENERGY_EXPENDITURE](https://objectstorage.uk-london-1.oraclecloud.com/p/76XcDppvDn3tSfZfdir8_7H9-qO4rKGBGLMyf0JGCvg/n/odca/b/OAC_Workshop/o/Energy_expenditures.xlsx)
+1. [Consumption_By_State_Year](https://objectstorage.uk-london-1.oraclecloud.com/p/SD4mcFaQHDAp1rncfmDZyy0BtTZ6qU22jzyi2TcOGgo/n/odca/b/OAC_Workshop/o/Consumption_by_state_year.csv)
+2. [Energy_Consumption_by_Sector](https://objectstorage.uk-london-1.oraclecloud.com/p/i-edAv1mlbLMlq_bcqZihRfNQSVZd8IEv6eUx_rrIvU/n/odca/b/OAC_Workshop/o/Energy_Consumption_by_Sector.csv)
 
 And now proceed uploading the following CSV files as a new Data Set on OAC.
 
-On the Home page, in the top-right of the screen click _Create_, and then click _Data Set_.
+On the Home page, in the top-right of the screen click _**Create**_, and then click _**Data Set**_.
 
-<div style="text-align:center"><img src="./images/lab1_image1.png" /></div>
+![](./images/lab1_image1.png)
 
-Click _Drop data file_ here or _click to browse_ to select an XLSX or XLS (with unpivoted data), CSV, or TXT file. And then click _Open_ to upload and open the selected spreadsheet.
+Click _**Drop data file here or click to browse**_ to select an XLSX or XLS (with unpivoted data), CSV, or TXT file. 
 
-<div style="text-align:center"><img src="./images/lab1_image2.png" /></div>
+![](./images/lab1_image2.png)
+
+
+Select a _**Consumption_By_State_Year**__ file and then click _**Open**_ to upload and open the selected spreadsheet.
+![](./images/lab1_image3.png)
+
 
 Make any required name, description, or column attribute changes.
 
-<div style="text-align:center"><img src="./images/lab1_image3.png" /></div>
+The _**Year**_ column must be changed from a measure to an attribute:
+1. Select the _**Year**_ column.
+2. Click the _**Treat As**_ button.
+3. Select _**Attribute**_.
 
-Click _Add_ to create the data set.
+![](./images/lab1_image4.png)
+
+The _**Energy Consumption Statewise(billion BTU)**_ column must be changed from an attribute to a meaure.
+1. Select the _**Energy Consumption Statewise(billion BTU)**_ column.
+2. Click the _**Treat As**_ button.
+3. Select _**Attribute**_.
+
+![](./images/lab1_image5.png)
+
+Click _**Add**_ to create the data set.
+![](./images/lab1_image6.png)
+
+Click _**<**_ icon in the  top-left corner.
+![](./images/lab1_image7.png)
+
+Repeat this process to create the _**Energy_Consumption_by_Sector**_ data set. Make sure to change the _**Year**_ column to an attribute.

@@ -6,16 +6,16 @@ In this part of the lab, we will create basic interactive canvases within a sing
 This lab is not intended to be an exhaustive view of all Oracle Analytics Cloud capabilities, but it wants to show how a Self Service Data Analysis can be made and therefore submit your data into three phases: prepare, visualize and narrate.
 
 You will create a basic interactive dashboard with 3 canvases that summarize:
-- Overview Dashboard
-- Energy Consumption by Location
+- Overview Dashboard.
+- Energy Consumption by Location.
 - Energy Consumption by type of housing.
 
-On the left corner select the _Create_ button and select _Project_
+On the left corner select the _**Create**_ button and select _**Project**_.
 <div style="text-align:center"><img src="./images/lab2_image1.png" /></div>
 
-Then select all the data sources previously uploaded while keeping pressed the ctrl button (or command on MAC) and select the button _Add to Project._
+Then select all the data sources previously uploaded while keeping pressed the ctrl button (or command on MAC) and select the button _**Add to Project**._
 
-Select on the pop-up windows all the Data Set created previously and then select the button _Add to Project._
+Select on the pop-up windows all the Data Set created previously and then select the button _**Add to Project**._
 
 <div style="text-align:center"><img src="./images/lab2_image2.png" /></div>
 
@@ -35,25 +35,26 @@ We will create the following canvas using different charts to answer these quest
 
 _Graph 1 – Annual Energy Consumption by year_
 
-On this blank canvas, it is possible to create visualizations by simply drag and drop. Under the table _**CONSUPTION_BY_STATE_YEAR**_ we can create our first visualization by holding down CTRL and multi-selecting _**YEAR**_ and _**ENERGY_CONS_YEARLY**_ attributes. Drag those 2 fields from the left navigation panel to the center blank canvas. A suggested plot is created automatically. From the chart icon at the top left change the chart type to a combo chart. 
+On this blank canvas, it is possible to create visualizations by simply drag and drop. 
+
+Under the table _**Consumption_By_State_Year**_ we can create our first visualization by _**holding down CTRL**_ and multi-selecting _**YEAR**_ and _**ENERGY_CONS_YEARLY**_ attributes. 
+
+Drag those 2 fields from the left navigation panel to the center blank canvas. A suggested plot is created automatically. From the chart icon at the top left change the chart type to a combo chart. 
 
 <div style="text-align:center"><img src="./images/lab2_image5.png" /></div>
 
-Furthermore, it is possible to add analytics tools as a trend, reference and forecast line for example. In our canvas, we will use a trend line. After selecting the analytics button by directly drag the trend line over the interested chart it will automatically generate the linear trend line.
+Furthermore, it is possible to add analytics tools as a trend, reference and forecast line for example. 
+In our canvas, we will use a trend line. After selecting the analytics button by directly drag the trend line over the interested chart it will automatically generate the linear trend line.
 
 <div style="text-align:center"><img src="./images/lab2_image6.png" /></div>
 
 - _Graph 2 – Total Energy consumption by Sector_
 
-Under the table ENERGY_CONSUMPTION_BY_SECTOR, holding down CTRL and multi-selecting 
-
-TOTAL_ENERGY_CONSUMED_BY_THE_COMMERCIAL_SECTOR, 
-
-TOTAL_ENERGY_CONSUMED_BY_THE_INDUSTRIAL_SECTOR, 
-
-TOTAL_ENERGY_CONSUMED_BY_THE_RESIDENTIAL_SECTOR,
-
-TOTAL_ENERGY_CONSUMED_BY_THE_TRANPORTATION_SECTOR.
+Under the table _**Energy_Consumption_by_Sector**_, holding down CTRL and multi-select the following attributes:
+- TOTAL_ENERGY_CONSUMED_BY_THE_COMMERCIAL_SECTOR
+- TOTAL_ENERGY_CONSUMED_BY_THE_INDUSTRIAL_SECTOR
+- TOTAL_ENERGY_CONSUMED_BY_THE_RESIDENTIAL_SECTOR
+- TOTAL_ENERGY_CONSUMED_BY_THE_TRANPORTATION_SECTOR
 
 and right-click on those 4 fields. Select as a chart type a donut chart. The result should be a canvas which contains both the graphs in the same window.
 
@@ -61,7 +62,7 @@ and right-click on those 4 fields. Select as a chart type a donut chart. The res
 
 - _Graph 3 – Energy Consumption in the USA_
 
-Under the table CONSUPTION_BY_STATE_YEAR, holding down CTRL and multi-selecting STATE and ENERGY_CONS_STATEWISE. Right-Click on these 2 fields and select _**Pick Visualization**_. From the chart icon at the top left change the chart type to a map chart. Here is showed the yearly total consumption for each state in the USA.
+Under the table _**Consumption_By_State_Year**_, holding down CTRL and multi-selecting _**STATE**_ and _**ENERGY_CONS_STATEWISE**_. Right-Click on these 2 fields and select _**Pick Visualization**_. From the chart icon at the top left change the chart type to a map chart. Here is showed the yearly total consumption for each state in the USA.
 
 <div style="text-align:center"><img src="./images/lab2_image8.png" /></div>
 

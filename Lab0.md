@@ -1,10 +1,22 @@
-Below you find the instructions for installing Oracle Analytics Desktop. Note that the labs can be executed using either Oracle Analytics Cloud or Oracle Analytics Desktop. So if you already have an OAC instance, feel free to use that instead.
-Note that apart from the Oracle Analytics Desktop installation, you also have to **install the open source Machine Learning packages**.
+# Lab 0 – Create an Oracle Analytics Cloud (OAC) instance
 
-# Lab0 - Install Oracle Analytics Desktop **and Machine Learning packages**
+Click the _**hamburger menu**_ in the upper left corner and click on _**Analytics -> Analytics Cloud**_.
+![](./images/lab0_image1.png)
 
-1. Download DVD by clicking [here](https://www.oracle.com/middleware/technologies/oracle-data-visualization-desktop.html#) and follow the instructions. 
-2. Install DVD locally on your computer. 
-3. The Machine Learning in DVD relies on open source packages that are -not- installed by default. To install these packages, go to the Windows Start menu, browse to Oracle (or type "install DVML") and click Install DVML. **You need a non-proxy connection to the internet for this to work.**
-4. The installer starts on completion of the download. Simply follow the instructions.
-5. If Oracle Analytics Desktop was running during the installation, then restart it for the changes to take effect.
+Click _**Create instance**_.
+![](./images/lab0_image2.png)
+
+Select a compartment and give the OAC instance a name.
+
+![](./images/lab0_image3.png)
+
+Click _**Create**_ to create the OAC instance.
+![](./images/lab0_image4.png)
+
+It takes about _**15-20 minutes**_ to create the OAC instance.
+
+When the status of the instance changes to _Active_, click the _**menu icon**_ and then select _**Open URL**_ to open the OAC instance.
+![](./images/lab0_image5.png)
+
+Welcome to Oracle Analytics Cloud.
+![](./images/lab0_image6.png)

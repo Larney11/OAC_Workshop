@@ -1,7 +1,7 @@
-## Energy Workshop Lab - Building an analysis with Oracle Analytics Cloud
+## Building an analysis with Oracle Analytics Cloud
 
 **Key Objectives:**
-- Install Oracle Analytics Desktop
+- Create an Oracle Analytics Cloud instance
 - Create a Data Set by adding a Spreadsheet from your Computer
 - How to create a simple data visualization project with Oracle Analytics Cloud
 - Machine Learning
@@ -21,7 +21,8 @@ Key Features of Oracle Analytics Cloud are:
 - **Collaboration and Publishing**, to take full advantage of your data, you need to easily share results with anyone, and collaborate smartly across teams to refine analytics content. Harness everyone’s collective wisdom to drive insights that lead to quick action and the best possible outcomes. 
 - **Predictive Analytics**, you need simple, one-click actions along with powerful machine learning (ML) models to predict results and better understand your data. To help you deploy sophisticated analytics to everyone in your organization, Oracle Analytics is focused on embedding, consuming, and training ML models to enrich your data preparation, discovery, and collaboration.
 
-## Lab 0 – Lab0 - Install Oracle Analytics Desktop and Machine Learning packages
+## Lab 0 – Create an Oracle Analytics Cloud (OAC) instance
+
 
 **[Click here to run Lab 0](./Lab0.md)**
 
