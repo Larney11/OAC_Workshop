@@ -11,6 +11,7 @@ Select a compartment and give the OAC instance a name.
 ![](./images/lab0_image3.png)
 
 Click _**Create**_ to create the OAC instance.
+
 ![](./images/lab0_image4.png)
 
 It takes about _**15-20 minutes**_ to create the OAC instance.

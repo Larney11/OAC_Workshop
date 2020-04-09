@@ -19,31 +19,44 @@ Click _**Drop data file here or click to browse**_ to select an XLSX or XLS (wit
 
 ![](./images/lab1_image2.png)
 
-
 Select a _**Consumption_By_State_Year**__ file and then click _**Open**_ to upload and open the selected spreadsheet.
-![](./images/lab1_image3.png)
 
+![](./images/lab1_image3.png)
 
 Make any required name, description, or column attribute changes.
 
-The _**Year**_ column must be changed from a measure to an attribute:
+The _**Year**_ column must be changed from being a measure to an attribute:
 1. Select the _**Year**_ column.
 2. Click the _**Treat As**_ button.
 3. Select _**Attribute**_.
 
 ![](./images/lab1_image4.png)
 
-The _**Energy Consumption Statewise(billion BTU)**_ column must be changed from an attribute to a meaure.
+The _**Energy Consumption Statewise(billion BTU)**_ column must be changed from being an attribute to a meaure.
 1. Select the _**Energy Consumption Statewise(billion BTU)**_ column.
 2. Click the _**Treat As**_ button.
-3. Select _**Attribute**_.
+3. Select _**Measure**_.
 
 ![](./images/lab1_image5.png)
 
+4. While  _**Energy Consumption Statewise(billion BTU)**_ column is still selected, select _**Data Type**_.
+5. Select _**Number**_.
+
+![](./images/lab1_image5-2.png)
+
+6. While  _**Energy Consumption Statewise(billion BTU)**_ column is still selected, select _**Aggregation**_.
+7. Select _**Sum**_.
+
+![](./images/lab1_image5-3.png)
+
 Click _**Add**_ to create the data set.
+
 ![](./images/lab1_image6.png)
 
 Click _**<**_ icon in the  top-left corner.
+
 ![](./images/lab1_image7.png)
 
-Repeat this process to create the _**Energy_Consumption_by_Sector**_ data set. Make sure to change the _**Year**_ column to an attribute.
+Repeat this process to create the _**Energy_Consumption_by_Sector**_ data set. 
+
+Make sure to change the _**Year**_ column from being a measure to an attribute.

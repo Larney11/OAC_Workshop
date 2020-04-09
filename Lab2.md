@@ -62,6 +62,12 @@ and right-click on those 4 fields. Select as a chart type a donut chart. The res
 
 - _Graph 3 – Energy Consumption in the USA_
 
+Make sure all fields are in the _# Values (Slice)_ section.
+
+If any of the fields are in the _Color_ section, click and drag the field to the _# Values (Slice)_.
+
+![](./images/lab2_image7-2.png)
+
 Under the table _**Consumption_By_State_Year**_, holding down CTRL and multi-selecting _**STATE**_ and _**ENERGY_CONS_STATEWISE**_. Right-Click on these 2 fields and select _**Pick Visualization**_. From the chart icon at the top left change the chart type to a map chart. Here is showed the yearly total consumption for each state in the USA.
 
 <div style="text-align:center"><img src="./images/lab2_image8.png" /></div>
