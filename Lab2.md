@@ -44,7 +44,9 @@ Drag those 2 fields from the left navigation panel to the center blank canvas. A
 <div style="text-align:center"><img src="./images/lab2_image5.png" /></div>
 
 Furthermore, it is possible to add analytics tools as a trend, reference and forecast line for example. 
-In our canvas, we will use a trend line. After selecting the analytics button by directly drag the trend line over the interested chart it will automatically generate the linear trend line.
+In our canvas, we will use a trend line. 
+
+Click the _**analytics**_ button and then directly drag the trend line over the interested chart it will automatically generate the linear trend line.
 
 <div style="text-align:center"><img src="./images/lab2_image6.png" /></div>
 
@@ -56,7 +58,7 @@ Under the table _**Energy_Consumption_by_Sector**_, holding down CTRL and multi-
 - TOTAL_ENERGY_CONSUMED_BY_THE_RESIDENTIAL_SECTOR
 - TOTAL_ENERGY_CONSUMED_BY_THE_TRANPORTATION_SECTOR
 
-and right-click on those 4 fields. Select as a chart type a donut chart. The result should be a canvas which contains both the graphs in the same window.
+and right-click on those 4 fields and click _**Pick Visualisation**_. Select as a chart type a _**donut**_ chart. The result should be a canvas which contains both the graphs in the same window.
 
 <div style="text-align:center"><img src="./images/lab2_image7.png" /></div>
 
@@ -73,3 +75,9 @@ Under the table _**Consumption_By_State_Year**_, holding down CTRL and multi-sel
 <div style="text-align:center"><img src="./images/lab2_image8.png" /></div>
 
 Every chart in the canvas can be moved and dimensioned in the canvas tab as we prefer, to model a custom dashboard. Through this dashboard, we can easily answer questions such as those at the beginning of this paragraph. As showed in _graph 1_ the yearly consumption of energy has constantly increased until the year 2000 and then it holds values in a range between 95M and 102M.
+
+Click the _**Save**_ button.
+![](./images/lab2_image9.png)
+
+Give the project a name and click the _**Save**_ button.
+![](./images/lab2_image10.png)

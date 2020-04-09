@@ -19,7 +19,7 @@ Click _**Drop data file here or click to browse**_ to select an XLSX or XLS (wit
 
 ![](./images/lab1_image2.png)
 
-Select a _**Consumption_By_State_Year**__ file and then click _**Open**_ to upload and open the selected spreadsheet.
+Select _**Consumption_By_State_Year.csv**_ and then click _**Open**_ to upload and open the selected spreadsheet.
 
 ![](./images/lab1_image3.png)
 
@@ -53,7 +53,7 @@ Click _**Add**_ to create the data set.
 
 ![](./images/lab1_image6.png)
 
-Click _**<**_ icon in the  top-left corner.
+Click _**<**_ icon in the  top-left corner to return to the home screen.
 
 ![](./images/lab1_image7.png)
 
