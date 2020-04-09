@@ -38,6 +38,6 @@ Key Features of Oracle Analytics Cloud are:
 
 **[Click here to run Lab 3](./Lab3.md)**
 
-## Lab 4 - How to export Dashboard 
+## Lab 4 - How to export a Dashboard 
 
 **[Click here to run Lab 4](./Lab4.md)**

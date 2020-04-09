@@ -10,12 +10,10 @@ You will create a basic interactive dashboard with 3 canvases that summarize:
 - Energy Consumption by Location.
 - Energy Consumption by type of housing.
 
-On the left corner select the _**Create**_ button and select _**Project**_.
+On the left corner select the _**Create**_ button and then select _**Project**_.
 <div style="text-align:center"><img src="./images/lab2_image1.png" /></div>
 
-Then select all the data sources previously uploaded while keeping pressed the ctrl button (or command on MAC) and select the button _**Add to Project**._
-
-Select on the pop-up windows all the Data Set created previously and then select the button _**Add to Project**._
+Select on the pop-up windows all the Data Set created previously and then click the _**Add to Project**_ button.
 
 <div style="text-align:center"><img src="./images/lab2_image2.png" /></div>
 
@@ -26,7 +24,7 @@ Once you created the new project, this is your new blank canvas.
 ## Canvas 1
 Questions answered in this section:
 1. How has annual Energy Consumption evolved in the USA during the last 60 years?
-2. Which are the top three sectors in consumption?
+2. Which sectors are the top three in consumption?
 3. How is Consumption Energy spread statewide?
 
 We will create the following canvas using different charts to answer these questions.
@@ -39,18 +37,21 @@ On this blank canvas, it is possible to create visualizations by simply drag and
 
 Under the table _**Consumption_By_State_Year**_ we can create our first visualization by _**holding down CTRL**_ and multi-selecting _**YEAR**_ and _**ENERGY_CONS_YEARLY**_ attributes. 
 
-Drag those 2 fields from the left navigation panel to the center blank canvas. A suggested plot is created automatically. From the chart icon at the top left change the chart type to a combo chart. 
+Drag those 2 fields from the left navigation panel to the center blank canvas. A suggested plot is created automatically. From the chart icon at the top left change the chart type to a _**combo chart**_. 
 
 <div style="text-align:center"><img src="./images/lab2_image5.png" /></div>
 
 Furthermore, it is possible to add analytics tools as a trend, reference and forecast line for example. 
 In our canvas, we will use a trend line. 
 
-Click the _**analytics**_ button and then directly drag the trend line over the interested chart it will automatically generate the linear trend line.
+Click the _**analytics**_ button and then directly drag the _**trend line**_ over the interested chart it will automatically generate the linear trend line.
 
 <div style="text-align:center"><img src="./images/lab2_image6.png" /></div>
 
-- _Graph 2 – Total Energy consumption by Sector_
+_Graph 2 – Total Energy consumption by Sector_
+
+Select the _**data icon**_ to return to the data view.
+<div style="text-align:center"><img src="./images/lab2_image6-2.png" /></div>
 
 Under the table _**Energy_Consumption_by_Sector**_, holding down CTRL and multi-select the following attributes:
 - TOTAL_ENERGY_CONSUMED_BY_THE_COMMERCIAL_SECTOR
@@ -70,7 +71,7 @@ If any of the fields are in the _Color_ section, click and drag the field to the
 
 ![](./images/lab2_image7-2.png)
 
-Under the table _**Consumption_By_State_Year**_, holding down CTRL and multi-selecting _**STATE**_ and _**ENERGY_CONS_STATEWISE**_. Right-Click on these 2 fields and select _**Pick Visualization**_. From the chart icon at the top left change the chart type to a map chart. Here is showed the yearly total consumption for each state in the USA.
+Under the table _**Consumption_By_State_Year**_, holding down CTRL and multi-selecting _**STATE**_ and _**ENERGY_CONS_STATEWISE**_. Right-Click on these 2 fields and select _**Pick Visualization**_. From the chart icon at the top left change the chart type to a _**map chart**_. Here is showed the yearly total consumption for each state in the USA.
 
 <div style="text-align:center"><img src="./images/lab2_image8.png" /></div>
 

@@ -1,8 +1,8 @@
-# Lab 4 - How to export Dashboard 
+# Lab 4 - How to export a Dashboard 
 
 You can export one or more of your project's visualizations, canvases, or stories as a Portable Document Format (PDF), PowerPoint (PPT) file or e-mail.
 
-Select the visualization you want to export and click Menu or right-click and click _**Share**_, then select As PDF or As PPT. Alternatively, click _**Share Project**_ on the project toolbar and _**select File**_. 
+Under the _**Narrate tab**_, Select the visualization you want to export and click Menu or right-click and click _**Share**_, then select As PDF or As PPT. Alternatively, click _**Share Project**_ on the project toolbar and _**select File**_. 
 
 <div style="text-align:center"><img src="./images/lab4_image1.png" /></div>
 
