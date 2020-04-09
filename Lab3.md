@@ -15,19 +15,18 @@ links:
 
 Upload both the data sets that you have downloaded at the beginning of this lab. Replicate the same steps explained in Lab 1 - _Create a Data Set by adding a Spreadsheet from your Computer._
 
-Just as a reminder, on the Home page, in the top-right of the screen click _Create_, and then click _Data Set_.
+Just as a reminder, on the Home page, in the top-right of the screen click _**Create**_, and then click _**Data Set**_.
 
 <div style="text-align:center"><img src="./images/lab3_image2.png" /></div>
 
-Click _Drop data file here or click to browse_ to select an XLSX or XLS (with unpivoted data), CSV, or TXT file. And then click Open to upload and open the selected spreadsheet.
+Click _**Drop data file here or click to browse**_ to select an XLSX or XLS (with unpivoted data), CSV, or TXT file. And then click Open to upload and open the selected spreadsheet.
 
 <div style="text-align:center"><img src="./images/lab3_image3.png" /></div>
 
-Make any required name, description, or column attribute changes.
 
 ## Step 2: Create and Train a Model using a Data Flow
 
-Once uploaded the data, always from the home page click _**Create**_ and then select _**Data Flow**_ and choose for training the model the _**Energy_Drain**_ data set then click _**Add**_.
+Once uploaded the data, always from the home page click _**Create**_ and then select _**Data Flow**_ and choose the _**Energy_Drain**_ data set for training the model the and then click _**Add**_.
 
 <div style="text-align:center"><img src="./images/lab3_image4.png" /></div>
 
@@ -95,21 +94,8 @@ Before proceeding with the new Dashboard, a few steps to adjust the data, in the
 
 ![](./images/lab3_image15_2.png)
 
-**Predicted Value table's Attribute types**
-
-If necessary, change the definition types to match the data-types as shown in the table below.
-Attribute Name | Data Type
------------- | -------------
-PredictedValue | Measure
-hour | Attribute
-dayofweek | Attribute
-quarter | Attribute
-month | Attribute
-dayofmonth | Attribute
-year | Attribute
-dayofyear | Attribute
-weekofyear | Attribute
-
+If necessary, change the definition type of data from measures to attribute.
+Therefore, after having checked change the columns _**hour**_ and _**month**_ in this way.
 
 <div style="text-align:center"><img src="./images/lab3_image16.png" /></div>
 
@@ -119,21 +105,6 @@ Then click _**Apply Script**_ to save changes.
 
 
 The same process has to been done for the _**Energy_Drain**_ dataset, always for the columns _**hour**_ and _**month**_.
-
-**Predicted Value table's Attribute types**
-
-If necessary, change the definition types to match the data-types as shown in the table below.
-Attribute Name | Data Type
------------- | -------------
-hour | Attribute
-dayofweek | Attribute
-quarter | Attribute
-month | Attribute
-year | Attribute
-dayofmonth | Attribute
-dayofyear | Attribute
-weekofyear | Attribute
-powergen_kw | Measure
 
 <div style="text-align:center"><img src="./images/lab3_image17.png" /></div>
 
